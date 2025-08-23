@@ -79,5 +79,5 @@ This repository contains a series of Python exercises focused on financial compu
 
 ---
 
-*This README provides a concise and clear overview of your learning journey through the exercises.*
+
 
