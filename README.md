@@ -1,82 +1,83 @@
-This repository contains a series of Python coding exercises designed to enhance understanding and practical skills in financial calculations, programming fundamentals, data manipulation, and visualization. The exercises span topics relevant to finance and quantitative analysis using Python, including Time Value of Money (TVM), loops, conditionals, data structures, numerical computing, and plotting.
+# Financial Python Coding Exercises
 
-Key Learning Areas
-1. Time Value of Money (TVM) Calculations
-Future Value and Present Value: Computation of future and present values using compound interest formulas.
+This repository contains a series of Python exercises focused on financial computations, programming fundamentals, data manipulation, and visualization.
 
-Compound Interest Rate: Calculating annualized compound interest given initial and final values.
+---
 
-Net Present Value (NPV): Discounting multiple cash flows using different discount rates to evaluate investment viability.
+## Table of Contents
+- [1. Time Value of Money (TVM) Calculations](#1-time-value-of-money-tvm-calculations)
+- [2. Python Programming Fundamentals](#2-python-programming-fundamentals)
+- [3. Advanced Python Techniques](#3-advanced-python-techniques)
+- [4. Numerical Computing with NumPy](#4-numerical-computing-with-numpy)
+- [5. Financial Modeling and Capital Budgeting](#5-financial-modeling-and-capital-budgeting)
+- [6. Tools & Libraries Used](#6-tools--libraries-used)
+- [7. How to Use](#7-how-to-use)
+- [8. Skills Developed](#8-skills-developed)
 
-Internal Rate of Return (IRR): Implementation of iterative methods and use of libraries to estimate IRR.
+---
 
-Yield to Maturity (YTM): Calculating bond yields using cash flows and pricing.
+## 1. Time Value of Money (TVM) Calculations
+- Calculated **Future Value (FV)** and **Present Value (PV)** using compound interest formulas.
+- Determined **per annum compound interest rate** from cash flow data.
+- Computed **Net Present Value (NPV)** for projects evaluating investment profitability.
+- Implemented **Internal Rate of Return (IRR)** calculations using iterative and built-in functions.
+- Calculated **Yield to Maturity (YTM)** on bonds with given coupon payments and prices.
 
-2. Python Programming Fundamentals
-Variables and Data Types: Handling integers, floats, strings, booleans, and understanding mutability (e.g., tuples vs lists).
+---
 
-Lists and Tuples: Creating, indexing, slicing, mutating lists; understanding tuple immutability.
+## 2. Python Programming Fundamentals
+- Defined and used **variables**, understanding different data types: integers, floats, strings, booleans.
+- Manipulated **lists and tuples**: creation, indexing, slicing, immutability of tuples.
+- Worked with **dictionaries**: storing key-value pairs, accessing, and iterating over items.
+- Used **loops** (`for`, `while`) to iterate through data and perform computations.
+- Applied **conditional statements** (`if`, `elif`, `else`) for decision making.
+- Explored **string operations**: indexing, uppercase conversion, and string formatting.
 
-Dictionaries: Storing and retrieving key-value data, iterating with formatted strings.
+---
 
-Loops: For loops for iteration, accumulating values, printing intermediate results.
+## 3. Advanced Python Techniques
+- Created **copies of lists** to avoid unintended mutations (best practices).
+- Explored **floating point precision** and rounding issues in Python.
+- Applied **modulo operator (%)** for divisibility checks and flow control.
+- Used **list comprehension** and **built-in functions** (`sum()`, `len()`, `max()`) for concise coding.
 
-Conditionals: If-else statements, logical operators (and, or, not), and control flow with break.
+---
 
-While Loops: Repeating operations while conditions hold true for problem solving (e.g., finding divisible numbers).
+## 4. Numerical Computing with NumPy
+- Created **NumPy arrays** for efficient numerical computation.
+- Performed **vectorized operations**, such as conversions and cash flow calculations.
+- Conducted slicing and Boolean filtering on arrays with logical operations.
+- Utilized **numpy_financial** library for advanced financial calculations (NPV, IRR, PMT, PPMT).
+- Calculated **cumulative sums** and statistical summaries easily.
+- Applied **Matplotlib** for creating and customizing plots (line, scatter) to visualize financial data.
 
-3. Advanced Python Techniques
-List Comprehension and Copying: Creating new lists efficiently, avoiding unintended side effects by copying objects.
+---
 
-String Operations: Indexing characters, uppercase conversion, string formatting.
+## 5. Financial Modeling and Capital Budgeting
+- Evaluated project **NPV and IRR** to aid investment decisions.
+- Compared mutually exclusive projects and calculated crossover rates.
+- Modeled **amortizing loans**: calculated monthly payments and amortization schedules.
+- Planned long-term investments considering payout and funding phases.
+- Analyzed bond pricing and yields to maturity.
 
-Floating Point Precision: Understanding floating-point arithmetic issues in Python, rounding effects, and decimal representation.
+---
 
-4. Numerical Computing with NumPy
-Arrays and Vectorization: Creating arrays, performing element-wise operations without explicit loops.
+## 6. Tools & Libraries Used
+- Python 3.x
+- NumPy
+- numpy_financial
+- Matplotlib
 
-Filtering and Slicing: Using boolean masks for filtering data based on conditions.
+---
 
-Financial Calculations: Utilizing numpy_financial for NPV and IRR calculations.
+## 7. Skills Developed
+- Ability to code financial math solutions programmatically.
+- Understanding of Python core programming concepts with practical applications.
+- Mastery of NumPy for numerical efficiency and matplotlib for visualization.
+- Practical experience with investment project evaluation using TVM, NPV, IRR, and YTM.
+- Analytical thinking for financial decision-making and problem solving.
 
-Cumulative Sums and Statistics: Calculating cumulative cashflows and aggregate metrics easily.
+---
 
-Plotting with Matplotlib: Creating basic and customized line and scatter plots for financial data visualization.
+*This README provides a concise and clear overview of your learning journey through the exercises.*
 
-5. Financial Modeling and Capital Budgeting
-Project Evaluation: Comparing mutually exclusive projects using NPV and IRR metrics.
-
-Loan Amortization: Calculating monthly payments and amortization schedules for mortgages.
-
-Investment Planning: Modeling funding and payout phases for retirement savings using financial functions.
-
-Tools & Libraries Used
-Python 3.x
-
-NumPy: Numerical computations and array operations.
-
-NumPy Financial (numpy_financial): Specialized financial functions like NPV, IRR, PMT.
-
-Matplotlib: Visualization of financial cashflows and investment returns.
-
-How to Use This Repository
-Open the notebooks in Jupyter Notebook or JupyterLab.
-
-Follow the instructions and fill in code cells.
-
-Review solution sections to verify your work.
-
-Run visualizations to better understand financial concepts.
-
-Experiment by modifying variables to observe effects on results.
-
-Skills Developed
-Strong fundamentals in Python programming relevant to finance.
-
-Ability to solve financial math problems programmatically.
-
-Proficiency in data manipulation and visualization.
-
-Understanding of core financial concepts including TVM, project evaluation, and loan amortization.
-
-Confidence in using Python libraries to optimize financial analysis.
