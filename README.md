@@ -11,8 +11,7 @@ This repository contains a series of Python exercises focused on financial compu
 - [4. Numerical Computing with NumPy](#4-numerical-computing-with-numpy)
 - [5. Financial Modeling and Capital Budgeting](#5-financial-modeling-and-capital-budgeting)
 - [6. Tools & Libraries Used](#6-tools--libraries-used)
-- [7. How to Use](#7-how-to-use)
-- [8. Skills Developed](#8-skills-developed)
+- [7. Skills Developed](#7-skills-developed)
 
 ---
 
