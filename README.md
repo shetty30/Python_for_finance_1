@@ -1,82 +1,69 @@
-# Financial Python Coding Exercises
+<p align="center">🧠📘 Python for Finance — Jupyter Notebook Projects</p>
+<p align="center"> <img src="https://i.imgur.com/WRf6KPS.png" width="850"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Finance-Analytics-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data-Science-yellow?style=for-the-badge" /> </p>
+📂 Notebook Index
 
-This repository contains a series of Python exercises focused on financial computations, programming fundamentals, data manipulation, and visualization.
+🎯 Purpose
 
----
+This repository is a consolidated collection of finance-focused Python notebooks, created to strengthen analytical, quantitative, and automation skills using Python + Jupyter Notebook.
+It serves as a professional portfolio resource demonstrating consistent hands-on work in financial data and logic.
+📘 What This Repository Contains
+A variety of small, applied finance notebooks covering:
+Financial calculations & return logic
+Basic quantitative metrics
+Data preparation & exploratory analysis
+Visualization of financial data
+Small automation-focused finance scripts
+All notebooks are independent and structured for clarity, reuse, and real-world relevance.
 
-## Table of Contents
-- [1. Time Value of Money (TVM) Calculations](#1-time-value-of-money-tvm-calculations)
-- [2. Python Programming Fundamentals](#2-python-programming-fundamentals)
-- [3. Advanced Python Techniques](#3-advanced-python-techniques)
-- [4. Numerical Computing with NumPy](#4-numerical-computing-with-numpy)
-- [5. Financial Modeling and Capital Budgeting](#5-financial-modeling-and-capital-budgeting)
-- [6. Tools & Libraries Used](#6-tools--libraries-used)
-- [7. Skills Developed](#7-skills-developed)
+🧠 Why This Matters
 
----
+This repo reflects:
+Practical application of Python in finance
+Ability to implement finance logic programmatically
+Experience with financial datasets
+A strong foundation for FinTech, analytics, and risk roles
 
-## 1. Time Value of Money (TVM) Calculations
-- Calculated **Future Value (FV)** and **Present Value (PV)** using compound interest formulas.
-- Determined **per annum compound interest rate** from cash flow data.
-- Computed **Net Present Value (NPV)** for projects evaluating investment profitability.
-- Implemented **Internal Rate of Return (IRR)** calculations using iterative and built-in functions.
-- Calculated **Yield to Maturity (YTM)** on bonds with given coupon payments and prices.
+🛠️ Tech Stack
 
----
+Python 3.x
 
-## 2. Python Programming Fundamentals
-- Defined and used **variables**, understanding different data types: integers, floats, strings, booleans.
-- Manipulated **lists and tuples**: creation, indexing, slicing, immutability of tuples.
-- Worked with **dictionaries**: storing key-value pairs, accessing, and iterating over items.
-- Used **loops** (`for`, `while`) to iterate through data and perform computations.
-- Applied **conditional statements** (`if`, `elif`, `else`) for decision making.
-- Explored **string operations**: indexing, uppercase conversion, and string formatting.
+Jupyter Notebook
 
----
+Pandas
 
-## 3. Advanced Python Techniques
-- Created **copies of lists** to avoid unintended mutations (best practices).
-- Explored **floating point precision** and rounding issues in Python.
-- Applied **modulo operator (%)** for divisibility checks and flow control.
-- Used **list comprehension** and **built-in functions** (`sum()`, `len()`, `max()`) for concise coding.
+NumPy
 
----
+Matplotlib / Seaborn
 
-## 4. Numerical Computing with NumPy
-- Created **NumPy arrays** for efficient numerical computation.
-- Performed **vectorized operations**, such as conversions and cash flow calculations.
-- Conducted slicing and Boolean filtering on arrays with logical operations.
-- Utilized **numpy_financial** library for advanced financial calculations (NPV, IRR, PMT, PPMT).
-- Calculated **cumulative sums** and statistical summaries easily.
-- Applied **Matplotlib** for creating and customizing plots (line, scatter) to visualize financial data.
+👤 Author
 
----
+Shriya Shetty
+Finance | FinTech | Data Analytics
 
-## 5. Financial Modeling and Capital Budgeting
-- Evaluated project **NPV and IRR** to aid investment decisions.
-- Compared mutually exclusive projects and calculated crossover rates.
-- Modeled **amortizing loans**: calculated monthly payments and amortization schedules.
-- Planned long-term investments considering payout and funding phases.
-- Analyzed bond pricing and yields to maturity.
+Building practical finance tools and analytical workflows using Python.
 
----
+🚀 Planned Additions
 
-## 6. Tools & Libraries Used
-- Python 3.x
-- NumPy
-- numpy_financial
-- Matplotlib
+Portfolio analytics basics
 
----
+Risk metric notebooks
 
-## 7. Skills Developed
-- Ability to code financial math solutions programmatically.
-- Understanding of Python core programming concepts with practical applications.
-- Mastery of NumPy for numerical efficiency and matplotlib for visualization.
-- Practical experience with investment project evaluation using TVM, NPV, IRR, and YTM.
-- Analytical thinking for financial decision-making and problem solving.
+Market data workflows
 
----
+Simple valuation models
 
+Automation utilities
 
+⭐ Your Banner Image (Standalone)
 
+If you ever want to reuse it:
+https://i.imgur.com/WRf6KPS.png
+
+If you want, I can:
+
+🔥 Customize the banner with your name + colors
+🔥 Add professional badges (license, last updated, repo size)
+🔥 Auto-generate the notebook table from your file names
+🔥 Add a “How to Run” section for recruiters
+
+Just say “upgrade it again”.
