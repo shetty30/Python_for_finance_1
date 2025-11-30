@@ -54,12 +54,6 @@ Simple valuation models
 
 Automation utilities
 
-⭐ Your Banner Image (Standalone)
-
-If you ever want to reuse it:
-https://i.imgur.com/WRf6KPS.png
-
-If you want, I can:
 
 🔥 Customize the banner with your name + colors
 🔥 Add professional badges (license, last updated, repo size)
